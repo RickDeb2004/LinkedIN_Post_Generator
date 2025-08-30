@@ -80,5 +80,4 @@ SERPER_API_KEY=your-serper-api-key-here
 
 
 
-## Setup Instructions
-1. **Clone the Repository**:
+
